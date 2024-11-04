@@ -1,0 +1,1 @@
+Hi, this project is a python program that does Synthetic Data Generation. It requires a CSV file from the user and then can generate requires number of synthetic entries. The project was done for a visual programming course at the undergrad level. 
